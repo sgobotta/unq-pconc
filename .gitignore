@@ -1,3 +1,4 @@
-/out
-/.idea
-
+# Personal Project Configuration
+.idea/
+# Build output files
+out/
